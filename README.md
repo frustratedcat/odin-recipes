@@ -1,2 +1,2 @@
 # odin-recipes
-Included herein is the README file for this project
+A bunch of recipes
