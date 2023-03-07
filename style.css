@@ -25,3 +25,7 @@ img {
     height: auto;
     width: 500px;
 }
+
+.fonts {
+    font-family: 'Times New Roman', Times, serif;
+}
